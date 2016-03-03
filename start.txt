@@ -1,1 +1,3 @@
-Adding some text to Git txt file
+Adding some text to Git txt file 
+
+commit 2
